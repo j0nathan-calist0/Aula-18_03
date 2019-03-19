@@ -6,6 +6,6 @@ scrip:
   - py.test teste.py
 
 after script:
-  notyifications:
-  recipients:
-    - jonathan.calisto@hotmail.com
+ notyifications:
+ recipients:
+   - jonathan.calisto@hotmail.com
