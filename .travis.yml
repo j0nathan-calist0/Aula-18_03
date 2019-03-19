@@ -1,0 +1,11 @@
+language: python
+python:
+  -"3.6"
+#comand to run tests
+scrip:
+  - py.test teste.py
+
+after script:
+notyifications:
+  recipients:
+    - jonathan.calisto@hotmail.com
